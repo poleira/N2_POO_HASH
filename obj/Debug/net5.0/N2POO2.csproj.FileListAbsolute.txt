@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\N2POO2.exe
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\N2POO2.deps.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\N2POO2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\N2POO2.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\N2POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\ref\N2POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\bin\Debug\net5.0\N2POO2.pdb
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\ref\N2POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.pdb
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N2POO2\obj\Debug\net5.0\N2POO2.genruntimeconfig.cache
